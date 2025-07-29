@@ -1,6 +1,6 @@
-# Hi there, I'm Muthupandian K! 👋
+# Hi there, I'm Muthupandian K! 👋  
 
-### 🚀|| security researcher | linux expert | Bug Bounty Hunter | Pentester | Automation Expert ||
+### 🚀🛡️|| security researcher🔒 | linux expert🐉 | Bug Bounty Hunter°˖➴🐞 | web Pentester🌏 | Automation Expert⚙️🔄 ||
 
 Welcome to my GitHub profile! I'm a passionate cybersecurity professional with expertise in web penetration testing, automation. I love hunting for bugs and building secure systems.
 
@@ -36,10 +36,10 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity professional with e
 ---
 
 ## 🌐 Professional Profiles
-- **HackerRank:** [@MUTHUtheHACKER](https://www.hackerrank.com/MUTHUtheHACKER) 💻
-
----
-
+- **HackerRank:**   [@MUTHUtheHACKER](https://www.hackerrank.com/) 💻
+     **Linkedin**   [Muthu Pandian k](-https://www.linkedin.com/in/muthupandiank26/).💻
+    **Hakerrank**   [Muthu pandian](https://www.hackerrank.com/profile/muthupandiank_b1). 💻
+--
 ## 🔥 Current Focus
 - Sharpening advanced pentesting techniques (API/LLM security) 🔐
 - Contributing to open-source security tools 🛠️
@@ -48,8 +48,7 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity professional with e
 ---
 
 ## 📫 Let's Connect!
-- Always open to collaborate on security projects and bug hunting! 
-
-
+- Always open to collaborate on security projects and bug hunting.
+- 
 
 *"Breaking things to make them unbreakable"* 💥
