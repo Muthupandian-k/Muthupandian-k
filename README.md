@@ -1,10 +1,9 @@
 # Hi there, I'm Muthupandian K! 👋
 
-### 🚀 Cybersecurity Enthusiast | Bug Bounty Hunter | Full-Stack Pentester | Automation Expert
+### 🚀|| security researcher | linux expert | Bug Bounty Hunter | Pentester | Automation Expert ||
 
-Welcome to my GitHub profile! I'm a passionate cybersecurity professional with expertise in web penetration testing, automation, and problem-solving. I love hunting for bugs and building secure systems.
+Welcome to my GitHub profile! I'm a passionate cybersecurity professional with expertise in web penetration testing, automation. I love hunting for bugs and building secure systems.
 
----
 
 ## 🔧 Technical Skills
 
@@ -51,7 +50,6 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity professional with e
 ## 📫 Let's Connect!
 - Always open to collaborate on security projects and bug hunting! 
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
 
 *"Breaking things to make them unbreakable"* 💥
