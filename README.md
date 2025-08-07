@@ -34,9 +34,7 @@ Welcome to my GitHub profile! I'm a passionate cybersecurity professional with e
   - Active on HackerRank (@MUTHUtheHACKER)
 
 ---
-
 ## 🌐 Professional Profiles
-- **HackerRank:**   [@MUTHUtheHACKER](https://www.hackerrank.com/) 💻
      **Linkedin**   [Muthu Pandian k](-https://www.linkedin.com/in/muthupandiank26/).💻
     **Hakerrank**   [Muthu pandian](https://www.hackerrank.com/profile/muthupandiank_b1). 💻
 --
